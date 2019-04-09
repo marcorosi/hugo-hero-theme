@@ -1,4 +1,4 @@
-name = "Hero"
+name = "BRB Meccanica"
 license = "MIT"
 licenselink = "https://github.com/JugglerX/hugo-hero-theme/blob/master/LICENSE"
 description = "Hero is a multipurpose theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site."
@@ -8,5 +8,5 @@ features = ["services","work","fullwidth","hero images"]
 min_version = 0.51
 
 [author]
-  name = "Robert Austin"
-  homepage = "https://www.zerostatic.io"
+  name = "BRB Srl"
+  homepage = "https://www.brb.it"
