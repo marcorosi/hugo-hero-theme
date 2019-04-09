@@ -1,8 +1,8 @@
 ---
-title: 'Our Difference'
+title: 'Facciamo la differenza'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'Chi siamo'
 buttonLink: 'about'
 ---
 
