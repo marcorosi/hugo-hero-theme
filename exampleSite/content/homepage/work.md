@@ -1,8 +1,8 @@
 ---
-title: 'We Help Business Grow'
+title: 'Il tuo partner per costruzioni meccaniche'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+button: 'I nostri lavori'
 buttonLink: 'work'
 ---
 
